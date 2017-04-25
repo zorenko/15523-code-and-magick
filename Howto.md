@@ -33,7 +33,7 @@
 И клонируйте репозиторий на свой компьютер, выполнив в консоли:
 
 ```bash
-git clone git@github.com:htmlacademy-javascript/code-and-magick.git
+git clone git@github.com:js-htmlacademy/code-and-magick.git
 ```
 
 Адрес в команде нужно заменить на тот, что вы скопировали. Теперь в папке `code-and-magick` лежит ваш проект.
